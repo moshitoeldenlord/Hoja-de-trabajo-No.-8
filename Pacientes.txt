@@ -1,0 +1,15 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Luis Hernández, dolor de cabeza, D
+Ana Castillo, paro respiratorio, A
+Carlos López, cortadura profunda, B
+Marta Rivas, fiebre alta, C
+Pedro Gómez, esguince de tobillo, D
+Jessica Morales, revisión médica general, E
+Esteban Díaz, traumatismo craneal, A
+Rosa Méndez, convulsiones, B
+Ricardo Molina, picadura de insecto, D
+Flor López, fiebre por dengue, C
+Camila Torres, herida por arma blanca, A
